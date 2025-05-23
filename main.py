@@ -24,5 +24,5 @@ if menu_option == 1:
     elif card_two == 13:
         card_two = 10
     print(("Ok, your cards are a "),  card_one,  ("and a"),  card_two,)
-    print(("My cards are a "), dealer_one, (" and a ???")
+    print(("My cards are a "), dealer_one, (" and a ???"))
 #code rng
